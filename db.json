@@ -1,0 +1,54 @@
+{
+    "works": [
+        {
+            "id": 5914,
+            "timestamp": "2022-11-27T11:02:58.860802+00:00",
+            "cust_name": "Cust 1",
+            "mobile": "1234567",
+            "description": "Desc 1",
+            "location": "Location 1",
+            "work_type": 1,
+            "start_date": "NULL",
+            "end_date": "NULL",
+            "status_id": 1
+        },
+        {
+            "id": 5913,
+            "timestamp": "2022-11-27T09:54:18.950768+00:00",
+            "cust_name": "Cust 2",
+            "mobile": "8912345",
+            "description": "Desc 2",
+            "location": "Loaction 2",
+            "work_type": 2,
+            "start_date": "2022-11-27 00:00:00",
+            "end_date": "NULL",
+            "status_id": 1
+        },
+        {
+            "id": 5912,
+            "timestamp": "2022-11-27T06:19:57.612028+00:00",
+            "cust_name": "Cust 3",
+            "mobile": "6789123",
+            "description": "Desc 3",
+            "location": "Location 3",
+            "work_type": 3,
+            "start_date": "2022-11-27 00:00:00",
+            "end_date": "NULL",
+            "status_id": 1
+        }
+    ],
+    "work_status": [
+        {
+            "id": 1,
+            "status_name": "Pending"
+        },
+        {
+            "id": 2,
+            "status_name": "Ongoing"
+        },
+        {
+            "id": 3,
+            "status_name": "Completed"
+        }
+    ]
+}
